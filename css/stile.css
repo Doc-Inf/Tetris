@@ -1,0 +1,14 @@
+#contenitore{
+    position:relative;
+}
+
+.blocco{
+    border:3px ridge black;
+    width:100px;
+    height:100px;
+    position:absolute;
+}
+
+.red{
+    background-color: red;
+}
